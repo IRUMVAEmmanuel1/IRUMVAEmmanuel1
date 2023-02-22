@@ -1,7 +1,7 @@
 
 ### Hi there 👋, I'm Emmanuel Irumva
 #### Software Developer and Software Project Manager at Huzalabs
-![Software Developer and Software Project Manager at Huzalabs](https://ibb.co/MZbH4ym)
+![Software Developer and Software Project Manager at Huzalabs](<a href="https://ibb.co/MZbH4ym"><img src="https://i.ibb.co/MZbH4ym/profile-pic-3.png" alt="profile-pic-3" border="0" /></a>)
 
 Data scientist and software engineer with expertise in building big data analytics and machine learning-based systems. Successfully led different projects through creative planning and the development of data-driven solutions. Self-motivated learner and multi-tasker with graduate-level skills (Msc) in statistics, economics, and IT.
 
