@@ -4,7 +4,7 @@
 
 <a href="https://ibb.co/MZbH4ym"><img src="https://i.ibb.co/MZbH4ym/profile-pic-3.png" alt="profile-pic-3" border="0" /></a>
 
-Data scientist and software engineer with expertise in building big data analytics and machine learning-based systems. Successfully led different projects through creative planning and the development of data-driven solutions. Self-motivated learner and multi-tasker with graduate-level skills (Msc) in statistics, economics, and IT.
+software engineer and Data scientist with expertise in building big data analytics and machine learning-based systems. Successfully led different projects through creative planning and the development of data-driven solutions. Self-motivated learner and multi-tasker with graduate-level skills (Bsc) in Computer Science.
 
 Skills: Data Science, AI, Python, NLP, VUE JS / REACT JS / JS / HTML / CSS
 
