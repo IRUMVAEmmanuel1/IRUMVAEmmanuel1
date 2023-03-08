@@ -9,8 +9,7 @@ Skills: Data Science, AI, Python, NLP, VUE JS / REACT JS / JS / HTML / CSS
 - 🔭 I’m currently working on NLP Fellowship Conversation AI and Machine Translation 
 - 🌱 I’m currently learning ML 
 - 📫 How to reach me: emmanuelirunva@huzalabs.com 
-- ⚡ Fun fact: Programmers spend 90% of their time debugging code and the other 10% of their time creating bugs
-
+- ⚡ Fun fact: Debugging is like being a detective in a crime movie where you are also the murderer
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IRUMVAEmmanuel1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/emmanuel-irumva-a9a475209//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/EmmanuelIrumva)  
 
