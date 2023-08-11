@@ -27,4 +27,3 @@ Skills: Data Science, AI, Python, NLP, VUE JS / REACT JS / JS / HTML / CSS
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IRUMVAEmmanuel1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IRUMVAEmmanuel1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
