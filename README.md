@@ -5,7 +5,7 @@ Software Engineer and Data scientist with expertise in building big data analyti
 
 Skills: Data Science, AI, Machine Learning, Python, NLP, REACT NATIVE / VUE JS / REACT JS / NODEJS / EXPRESS JS / JS / HTML / CSS
 
-- 🔭 I’m currently working on Women Training in AI and Datascience 
+- 🔭 I’m currently working on Women Training in AI and Datascience  
 - 🌱 I’m currently learning ML
 - 📫 How to reach me: emmanuelirunva@huzalabs.com 
 - ⚡ Fun fact: Debugging is like being a detective in a crime movie where you are also the murderer
