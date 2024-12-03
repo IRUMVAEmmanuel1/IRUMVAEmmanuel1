@@ -62,7 +62,7 @@ Skills: Data Science, AI, Machine Learning, Python, NLP, REACT NATIVE / VUE JS /
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7?style=for-the-badge&logo=Trello&logoColor=white)
 
 ---
-### 📊 Stats
+### 📊 Stats 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # 📊 GitHub Stats:
