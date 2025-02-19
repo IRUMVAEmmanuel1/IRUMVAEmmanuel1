@@ -2,7 +2,7 @@
 #### Software Engineer and Software Project Manager at Huzalabs   
 <a href='https://www.linkpicture.com/view.php?img=LPic640710060bde71876698574'><a href="https://ibb.co/27B1Nhd"><img src="https://i.ibb.co/kgFs1BX/Frame-1-1.png" alt="Frame-1-1" border="0"></a><br>
 Software Engineer and Data scientist with expertise in building big data analytics and machine learning-based systems. Successfully led different projects through creative planning and developing data-driven solutions—self-motivated learner and multi-tasker.      
-  
+   
 Skills: Data Science, AI, Machine Learning, Python, NLP, REACT NATIVE / VUE JS / REACT JS / NODEJS / EXPRESS JS / JS / HTML / CSS 
 
 - 🔭 I’m currently working on Women Training in AI and Datascience   
