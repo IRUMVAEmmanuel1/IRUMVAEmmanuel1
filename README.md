@@ -67,7 +67,7 @@ Skills: Data Science, AI, Machine Learning, Python, NLP, REACT NATIVE / VUE JS /
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # 📊 GitHub Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IRUMVAEmmanuel1&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IRUMVAEmmanuel1&show_icons=true)   
 
 ![](https://github-readme-stats.vercel.app/api?username=IRUMVAEmmanuel1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IRUMVAEmmanuel1&theme=dark&hide_border=false)<br/>
